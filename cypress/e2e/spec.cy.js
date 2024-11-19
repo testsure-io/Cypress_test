@@ -1,7 +1,8 @@
 describe('Cura Make Appointment', function () {
 
   it('Visit the URL', function () {
-      cy.visit('https://katalon-demo-cura.herokuapp.com/');
+      //cy.visit('https://katalon-demo-cura.herokuapp.com/');
+	  cy.visit('https://goggle.com/');
   });
 
   it('Click on Make Appointment', function () {
